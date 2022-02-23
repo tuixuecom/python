@@ -1,0 +1,4 @@
+obj = 100
+print(id(obj))
+print(type(obj))
+print(obj)
