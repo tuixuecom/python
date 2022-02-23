@@ -1,0 +1,12 @@
+程序：
+str = 'Python'
+for s in str:
+    print(s)
+
+结果：    
+P
+y
+t
+h
+o
+n
