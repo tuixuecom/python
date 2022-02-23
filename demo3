@@ -1,0 +1,10 @@
+程序：
+sum = 0
+m = 10
+while m > 0:
+    sum = sum + m
+    m = m - 1
+print(sum)
+
+结果：
+55
